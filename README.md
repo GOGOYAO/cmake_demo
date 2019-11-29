@@ -1,2 +1,7 @@
-# cmake_demo
-cmake demo for build your project quickly
+This is demo for cmake and is aimed at create your project quickly.
+
+We can study more from the official website: https://gitlab.kitware.com/cmake/community/wikis/home.
+
+On the other hand, some useful courses are listed as follows:
+    1. https://chenxiaowei.gitbook.io/cmake-cookbook/0.0-chinese
+    2. https://gitlab.com/CLIUtils/modern-cmake
